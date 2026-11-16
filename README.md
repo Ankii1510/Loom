@@ -24,6 +24,21 @@ npm test         # property-based tests
 npm run build
 ```
 
+## Deploy on Vercel
+
+1. Go to [vercel.com/new](https://vercel.com/new)
+2. Import **https://github.com/Ankii1510/Loom**
+3. Framework: **Next.js** (auto)
+4. Root directory: `.` — leave env vars empty (sample data, no secrets)
+5. Deploy → open the `*.vercel.app` URL
+
+Or CLI:
+
+```bash
+npx vercel login
+npx vercel --prod
+```
+
 ## Repo map
 
 ```
