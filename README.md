@@ -2,6 +2,8 @@
 
 **Kiroween 2026 · Skeleton Crew**
 
+GitHub: [Ankii1510/Loom](https://github.com/Ankii1510/Loom)
+
 **Loom** weaves reusable **AI Skills** for Kiro. One core loads `SKILL.md` packs; two distinct apps prove the foundation:
 
 | App | Path | What it does |
